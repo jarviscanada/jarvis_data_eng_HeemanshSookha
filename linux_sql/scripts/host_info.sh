@@ -5,13 +5,13 @@ db_name=$3
 psql_user=$4
 psql_password=$5
 
-# Check # of args
+
 if [ "$#" -ne 5 ]; then
     echo "Illegal number of parameters"
     exit 1
 fi
 
-# Save machine statistics in MB and current machine hostname to variables
+
 
 hostname=$(hostname -f)
 lscpu=$(lscpu)

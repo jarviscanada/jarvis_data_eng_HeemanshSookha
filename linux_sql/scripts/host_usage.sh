@@ -5,18 +5,18 @@ db_name=$3
 psql_user=$4
 psql_password=$5
 
-# Check # of args
+
 if [ "$#" -ne 5 ]; then
     echo "Illegal number of parameters"
     exit 1
 fi
 
-# Save machine statistics in MB and current machine hostname to variables
+
 vmstat_mb=$(vmstat --unit M)
 hostname=$(hostname -f)
 cpu_idle=$(echo "$vmstat_mb" | tail -1 | awk '{print $15}' | xargs)
 
-# Retrieve hardware specification variables
+
 memory_free=$(echo "$vmstat_mb" |  tail -1 | awk '{print $4}'| xargs)
 
 
@@ -26,10 +26,10 @@ disk_io=$(vmstat -d | tail -1 | awk '{print $10}')
 
 disk_available=$(df -BM / | tail -1 | awk '{print $4}'| sed 's/[^0-9]*//g')
 
-# Current time in `2019-11-26 14:40:19` UTC format
+
 timestamp=$(vmstat -t | awk '{print $18, $19}' | tail -1 | xargs)
 
-# Subquery to find matching id in host_info table
+
 host_id="(SELECT id FROM host_info WHERE hostname='$hostname')"
 
 
@@ -57,7 +57,7 @@ EOF
 
 export PGPASSWORD=$psql_password
 
-# Update the host_usage table with new host usage info
+
 psql -h $psql_host -p $psql_port -d $db_name -U $psql_user -c "$insert_stmt"
 
 exit $?
