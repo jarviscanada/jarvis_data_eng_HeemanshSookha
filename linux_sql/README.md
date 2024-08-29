@@ -1,4 +1,4 @@
-# Linux Cluster Monitoring Agent 3099
+# Linux Cluster Monitoring Agent 
 ## Introduction
 
 This project is an automated tool for monitoring and recording resource usage in a Linux Cluster. It continuously gathers data on CPU, memory, and disk usage across machines, and stores the information in a specialized database. Tailored for system administrators and developers, this solution is ideal for managing and optimizing the performance of both physical and virtual Linux systems.
