@@ -44,6 +44,11 @@ jarvis_projects:
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: This project is an automated tool for monitoring and recording resource usage in a Linux Cluster. It continuously gathers data on CPU, memory, and disk usage across machines, and stores the information in a specialized database. Tailored for system administrators and developers, this solution is ideal for managing and optimizing the performance of both physical and virtual Linux systems.
+  - name: "RDBMS/SQL"
+    git_url: "/SQL"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: This project provides documentation on PostgreSQL exercises covering topics such as Basics, Joins, Aggregation, and Strings. These exercises help developers practice querying relational databases using practical features and proper formatting.
 
 
 # List of personal or academic projects

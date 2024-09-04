@@ -17,6 +17,8 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_HeemanshSo
 
 **Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_HeemanshSookha/tree/master/linux_sql)]: This project is an automated tool for monitoring and recording resource usage in a Linux Cluster. It continuously gathers data on CPU, memory, and disk usage across machines, and stores the information in a specialized database. Tailored for system administrators and developers, this solution is ideal for managing and optimizing the performance of both physical and virtual Linux systems.
 
+**RDBMS/SQL** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_HeemanshSookha/tree/master/SQL)]: This project provides documentation on PostgreSQL exercises covering topics such as Basics, Joins, Aggregation, and Strings. These exercises help developers practice querying relational databases using practical features and proper formatting.
+
 
 ## Highlighted Projects
 **Parking spot management Software**: This project was developed for my computer vision and machine learning course, We developed it so as we could more efficient manage parking spots using Neural Networks on cameras that take photos every second and analyse which parking spot is free by identifying with has a car on it. It was implemented using openCV to find empty rectangular spaces on the parking image for the CNN where we built on top of VGG16 with some hyper-parameters and atained a test loss of about 0.17

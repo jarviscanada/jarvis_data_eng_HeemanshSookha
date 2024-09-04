@@ -37,6 +37,11 @@
       "description": "This project is an automated tool for monitoring and recording resource usage in a Linux Cluster. It continuously gathers data on CPU, memory, and disk usage across machines, and stores the information in a specialized database. Tailored for system administrators and developers, this solution is ideal for managing and optimizing the performance of both physical and virtual Linux systems.",
       "git_url": "/linux_sql",
       "name": "Cluster Monitor"
+    },
+    {
+      "description": "This project provides documentation on PostgreSQL exercises covering topics such as Basics, Joins, Aggregation, and Strings. These exercises help developers practice querying relational databases using practical features and proper formatting.",
+      "git_url": "/SQL",
+      "name": "RDBMS/SQL"
     }
   ],
   "name": "Heemansh Rye Sookha",
