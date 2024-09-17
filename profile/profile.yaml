@@ -49,7 +49,11 @@ jarvis_projects:
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: This project provides documentation on PostgreSQL exercises covering topics such as Basics, Joins, Aggregation, and Strings. These exercises help developers practice querying relational databases using practical features and proper formatting.
-
+  - name: "Grep App"
+    git_url: "/core_java"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: This Java application enables users to search for lines matching a given regex pattern within files. It processes files in a specified directory line by line and writes the matched lines to an output file. Designed as a cross-platform solution, it mirrors the functionality of GNU's grep, with the flexibility of being runnable on any system through the JVM.
 
 # List of personal or academic projects
 # Feel free to add more projects

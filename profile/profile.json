@@ -42,6 +42,11 @@
       "description": "This project provides documentation on PostgreSQL exercises covering topics such as Basics, Joins, Aggregation, and Strings. These exercises help developers practice querying relational databases using practical features and proper formatting.",
       "git_url": "/SQL",
       "name": "RDBMS/SQL"
+    },
+    {
+      "description": "This Java application enables users to search for lines matching a given regex pattern within files. It processes files in a specified directory line by line and writes the matched lines to an output file. Designed as a cross-platform solution, it mirrors the functionality of GNU's grep, with the flexibility of being runnable on any system through the JVM.",
+      "git_url": "/core_java",
+      "name": "Grep App"
     }
   ],
   "name": "Heemansh Rye Sookha",

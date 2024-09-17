@@ -19,6 +19,8 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_HeemanshSo
 
 **RDBMS/SQL** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_HeemanshSookha/tree/master/SQL)]: This project provides documentation on PostgreSQL exercises covering topics such as Basics, Joins, Aggregation, and Strings. These exercises help developers practice querying relational databases using practical features and proper formatting.
 
+**Grep App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_HeemanshSookha/tree/master/core_java)]: This Java application enables users to search for lines matching a given regex pattern within files. It processes files in a specified directory line by line and writes the matched lines to an output file. Designed as a cross-platform solution, it mirrors the functionality of GNU's grep, with the flexibility of being runnable on any system through the JVM.
+
 
 ## Highlighted Projects
 **Parking spot management Software**: This project was developed for my computer vision and machine learning course, We developed it so as we could more efficient manage parking spots using Neural Networks on cameras that take photos every second and analyse which parking spot is free by identifying with has a car on it. It was implemented using openCV to find empty rectangular spaces on the parking image for the CNN where we built on top of VGG16 with some hyper-parameters and atained a test loss of about 0.17
