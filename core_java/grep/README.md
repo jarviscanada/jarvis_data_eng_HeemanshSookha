@@ -12,9 +12,7 @@ This project is a Java application that searches files for lines matching a give
 To start using the application
 1. Clone the repository
 ```
-cd $HOME
 git clone https://github.com/jarviscanada/jarvis_data_eng_HeemanshSookha.git
-cd $HOME/jarvis_data_eng_HeemanshSookha/core_java/grep
 ```
 2. Package the Java Grep application
 ```
