@@ -29,7 +29,7 @@
     },
     {
       "description": "where we wrote some of the major aspects of an OS involving semaphores and mutex locks and first-come, first-served (FCFS), round-robin (RR) scheduling, where each task is run for a time quantum (or for the remainder of its CPU burst)",
-      "name": "Operating Systems"
+      "name": "Operating System"
     }
   ],
   "jarvis_projects": [
@@ -44,7 +44,7 @@
       "name": "RDBMS/SQL"
     },
     {
-      "description": "This Java application enables users to search for lines matching a given regex pattern within files. It processes files in a specified directory line by line and writes the matched lines to an output file. Designed as a cross-platform solution, it mirrors the functionality of GNU's grep, with the flexibility of being runnable on any system through the JVM.",
+      "description": "This Java application enables to search for lines matching a given regex pattern within files. It processes files in a specified directory line by line and writes the matched lines to an output file. Designed as a cross-platform solution, it mirrors the functionality of GNU's grep, with the flexibility of being runnable on any system through the JVM.",
       "git_url": "/core_java",
       "name": "Grep App"
     }

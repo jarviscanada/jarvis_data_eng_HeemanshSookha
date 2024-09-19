@@ -53,7 +53,7 @@ jarvis_projects:
     git_url: "/core_java"
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: This Java application enables users to search for lines matching a given regex pattern within files. It processes files in a specified directory line by line and writes the matched lines to an output file. Designed as a cross-platform solution, it mirrors the functionality of GNU's grep, with the flexibility of being runnable on any system through the JVM.
+    description: This Java application enables to search for lines matching a given regex pattern within files. It processes files in a specified directory line by line and writes the matched lines to an output file. Designed as a cross-platform solution, it mirrors the functionality of GNU's grep, with the flexibility of being runnable on any system through the JVM.
 
 # List of personal or academic projects
 # Feel free to add more projects
@@ -67,7 +67,7 @@ highlighted_projects:
   - name: "Super Mario game"
     #git_url:
     description: This game was made from scratch using Sfml library and creating all the physics as an experiment with integrated inventory, 3 different type of maps and also difficulty selection and a custom level editor all of which was created in C++ and Javascript. We used all custom assets and we also implemented a level engine to modify and create new levels from within the app.
-  - name: "Operating Systems"
+  - name: "Operating System"
     #git_url:
     description: where we wrote some of the major aspects of an OS involving semaphores and mutex locks and first-come, first-served (FCFS), round-robin (RR) scheduling, where each task is run for a time quantum (or for the remainder of its CPU burst)
 #List of professional experience

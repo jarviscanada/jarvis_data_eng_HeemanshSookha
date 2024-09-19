@@ -19,7 +19,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_HeemanshSo
 
 **RDBMS/SQL** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_HeemanshSookha/tree/master/SQL)]: This project provides documentation on PostgreSQL exercises covering topics such as Basics, Joins, Aggregation, and Strings. These exercises help developers practice querying relational databases using practical features and proper formatting.
 
-**Grep App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_HeemanshSookha/tree/master/core_java)]: This Java application enables users to search for lines matching a given regex pattern within files. It processes files in a specified directory line by line and writes the matched lines to an output file. Designed as a cross-platform solution, it mirrors the functionality of GNU's grep, with the flexibility of being runnable on any system through the JVM.
+**Grep App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_HeemanshSookha/tree/master/core_java)]: This Java application enables to search for lines matching a given regex pattern within files. It processes files in a specified directory line by line and writes the matched lines to an output file. Designed as a cross-platform solution, it mirrors the functionality of GNU's grep, with the flexibility of being runnable on any system through the JVM.
 
 
 ## Highlighted Projects
@@ -27,7 +27,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_HeemanshSo
 
 **Super Mario game**: This game was made from scratch using Sfml library and creating all the physics as an experiment with integrated inventory, 3 different type of maps and also difficulty selection and a custom level editor all of which was created in C++ and Javascript. We used all custom assets and we also implemented a level engine to modify and create new levels from within the app.
 
-**Operating Systems**: where we wrote some of the major aspects of an OS involving semaphores and mutex locks and first-come, first-served (FCFS), round-robin (RR) scheduling, where each task is run for a time quantum (or for the remainder of its CPU burst)
+**Operating System**: where we wrote some of the major aspects of an OS involving semaphores and mutex locks and first-come, first-served (FCFS), round-robin (RR) scheduling, where each task is run for a time quantum (or for the remainder of its CPU burst)
 
 
 ## Professional Experiences
